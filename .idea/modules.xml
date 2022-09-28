@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpotifyCloneYT.iml" filepath="$PROJECT_DIR$/.idea/modules/SpotifyCloneYT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SpotifyCloneYT.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SpotifyCloneYT.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SpotifyCloneYT.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SpotifyCloneYT.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SpotifyCloneYT.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SpotifyCloneYT.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SpotifyCloneYT.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SpotifyCloneYT.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
